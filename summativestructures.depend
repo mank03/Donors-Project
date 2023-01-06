@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621280814 source:c:\users\konnur pc\documents\cpp projects\summativestructures\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+
